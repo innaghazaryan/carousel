@@ -13,15 +13,18 @@
   width: 100%;
   height: auto;
 }
+.carousel-buttons {
+  position: absolute;
+  bottom: 70%;
+  left: 50%;
+}
 .back-btn {
+  position: absolute;
   width: 40px;
-  position: relative;
-  left: 410px;
-  bottom: 200px;
+  right: 316px;
 }
 .next-btn {
   width: 40px;
-  position: relative;
-  left: 1020px;
-  bottom: 200px;
+  position: absolute;
+  left: 316px;
 }
